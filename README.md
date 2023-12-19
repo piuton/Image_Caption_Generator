@@ -16,6 +16,6 @@ Installation
 Create a virtual environment
 ```
 virtualenv venv
-source venv/bin/activate
+source venv\Scripts\activate
 pip install -r requirements.txt
 ```
