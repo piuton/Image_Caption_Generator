@@ -1,5 +1,5 @@
 # Image Caption Generator
-###Image Caption Generator with Deep Learning (CNN - RNN) Model
+### Image Caption Generator with Deep Learning (CNN - RNN) Model
 
 This is a capstone project for Institute of Data.
 
