@@ -9,3 +9,13 @@ The Aim is to
     Detect all the objects and attributes, 
     Recognise relationship among them and 
     then Generate captions describing all the features present in an image. 
+
+Installation
+-------------
+
+Create a virtual environment
+```
+virtualenv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
